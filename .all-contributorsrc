@@ -810,6 +810,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "eng618",
+      "name": "Eric Garcia",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3827863?v=4",
+      "profile": "https://github.com/eng618",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "commitConvention": "none"
